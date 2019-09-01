@@ -62,6 +62,21 @@ public class Person {
 		return String.format("%03d-%02d-%04d", ssn/1000000,ssn%1000000/10000, ssn%10000); 
 
 	}
+	
+	public DateAndPlaceOfBirth getPlaceDob(){
+		return placeDob;
+	}
+	
+	public StreetUSAddress getAddress(){
+		return address;
+	}
+	
+	public String toString(){
+		System.out.println(firstNames + lastNames + ssn);
+		System.out.println("Date and place of birth: " + placeDob);
+		System.out.println(address);
+		return(firstNames + lastNames + ssn);
+	}
 // TODO provide the getter methods for placeDob and address 
 // TODO Override the public String toString() method that is similar to the 
 // toString of the StreetUSAddress class and will print a person as:

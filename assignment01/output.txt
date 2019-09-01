@@ -1,0 +1,364 @@
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR StreetUSAddress.java:
+512 Acre Drive
+Schenectady, NY 12303
+580 Acorn Street
+Apt 12
+Binghamton, NY 12085
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+true
+true
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+true
+true
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+true
+true
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+true
+true
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+true
+true
+false
+false
+true
+false
+false
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1990-12-06, Schenectady, NY, USA
+Date and place of birth: 1990-12-06, Binghamton, NY, USA
+Date and place of birth: 1970-12-06, Detroit, MI, USA
+Date and place of birth: 1981-02-24, London, England
+Date and place of birth: 1999-11-30, Paris, France
+false
+false
+true
+false
+true
+false
+true
+true
+false
+false
+true
+false
+false
+false
